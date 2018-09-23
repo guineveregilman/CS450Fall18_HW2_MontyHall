@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MontyHall</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">The Monty Hall Problem</string>
+    <string name="new_text">New</string>
+    <string name="continue_text">Continue</string>
+    <string name="about_text">About</string>
+    <string name="about">
+        This is the St. Lawrence University CS450
+        implementation of the Monty Hall Game.
+    </string>
+    <string name="about_title_text">About the Monty Hall Problem</string>
+    <string name="ok">OK</string>
+
+    <string name="choose_a_door">Choose a door</string>
+    <string name="wins">Wins:</string>
+    <string name="loss">Losses:</string>
+    <string name="total_wins">Total wins:</string>
+    <string name="total_losses">Total losses:</string>
+</resources>
