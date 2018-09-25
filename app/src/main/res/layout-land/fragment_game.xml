@@ -75,11 +75,6 @@
             android:textSize="15sp"
             android:layout_gravity="center" />
 
-        <include layout="@layout/doors"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center" />
-
         <RelativeLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -123,6 +118,11 @@
             android:enabled="false"
             android:id="@+id/again"
             android:text="Play again"
+            android:layout_gravity="center" />
+
+        <include layout="@layout/doors"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_gravity="center" />
 
     </LinearLayout>
